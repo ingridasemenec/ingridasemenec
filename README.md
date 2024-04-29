@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ingrida Semenec</h1>
 <h3 align="center">PhD Experimental Particle Physicist turned Data Scientist. Excited about AI and quantum computing.</h3>
 
-- 🌱 I’m currently learning **Advanced python techniques and algorithms for machine learning.**
+- 🌱 I’m currently learning **Advanced python techniques and algorithms for classical machine learning and deep learning.**
 
 - 💬 Ask me about **quantum sensing, particle physics, D&D**
 
