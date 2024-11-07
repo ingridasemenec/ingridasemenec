@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ingrida Semenec</h1>
-<h3 align="center">PhD Experimental Particle Physicist turned Data and Machine Learning Scientist. Excited about AI and quantum computing.</h3>
+<h3 align="center">PhD Experimental Particle Physicist turned Data and Machine Learning Scientist. Senior Data Scientist @ Quome. Excited about AI and quantum computing.</h3>
 
 - 🌱 I’m currently learning **Advanced Python and PennyLane techniques and algorithms for deep learning and quantum machine learning.**
 
