@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ingrida Semenec</h1>
 <h3 align="center"> Senior Data Scientist @ Quome. PhD Experimental Particle Physicist turned Data and Machine Learning Scientist. Excited about AI and quantum computing.</h3>
 
-- 🌱 I’m currently learning **Advanced Python and PennyLane techniques and algorithms for deep learning and quantum machine learning.**
+- 🌱 I’m currently learning **Multi-Agent LLM framework coding. Advanced techniques and algorithms for deep learning and quantum machine learning.**
 
-- 💬 Ask me about **particle physics, quantum sensing, D&D**
+- 💬 Ask me about **particle physics, quantum sensing, D&D, rock climbing**
 
 - 📫 How to reach me **ingridasemenec@gmail.com**
 
